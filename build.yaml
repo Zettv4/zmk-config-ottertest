@@ -24,4 +24,7 @@ include:
 include:
   - board: nrf52840_m2
     shield: otter_right
+    include:
+  - board: nrf52840_m2
+    shield: settings_reset_dongle
 
