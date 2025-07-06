@@ -20,10 +20,8 @@
 ---
 include:
   - board: nrf52840_m2
-    shield: two_percent_milk
+    shield: otter_left
 include:
   - board: nrf52840_m2
-    shield: two_percent_milk
-include:
-  - board: nrf52840_m2
-    shield: two_percent_milk
+    shield: otter_right
+
